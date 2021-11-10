@@ -51,5 +51,5 @@
 - 4201～4400: きつね様
 - 4401～4600: 匿名希望様
 
-## ライセンス
-パブリックドメインです．
+## ライセンスはパブリックドメインです．
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")](http://creativecommons.org/publicdomain/zero/1.0/deed.ja)
