@@ -66,6 +66,7 @@ English:
 ## ROHANを朗読した音声データベース
 - SSS様によるマルチモーダルデータベース (https://zunko.jp/multimodal_dev/login.php)
 - No.7音声データベース（https://voiceseven.com/）
+- JMS：NICT日本語複数話者複数スタイル音声合成コーパス (https://ast-astrec.nict.go.jp/release/jms/)
 
 ## GUEST1000の協力者様
 - 3601～3800: nakak様
